@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaziyaseenali
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently proficient in java, c++ and python
+- 👀 I’m interested in Machine Learning, Computer Vision, Deep Learning
+- 🌱 I’m currently proficient in Java, C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gaziyaseenali72@gmail.com
 
